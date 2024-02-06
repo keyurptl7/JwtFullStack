@@ -1,11 +1,13 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Awt Auth Login & Signup React App
+This is a sample react app of Login & Signup functionality backend Rest API using Java Spring Boot.
 
 ## Available Scripts
-
 In the project directory, you can run:
 
+Install node packages.
+### `npm install`
+
+Start React App.
 ### `npm start`
 
 Runs the app in the development mode.\
